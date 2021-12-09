@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles&display=swap');
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+nav .header-img{
+    max-width: 100px;
+}
+nav{
+    color: white;
+    background-color: black;
+    padding-top: 4rem;    
+}
+
+
+
+body{
+   font-family:  "Fuzzy Bubbles", cursive;
+    background-color: #6B7280;
+}
+
+
+
+
+    
+
+textarea{
+    font-family:  "Fuzzy Bubbles", cursive;
+    display: block;
+    margin:  4rem auto;
+    height: 10vh;
+    width: 70%;
+}
+#btn-translate{
+    font-family:  "Fuzzy Bubbles", cursive;
+    display: block;
+    margin:  0rem auto;
+    font-weight: bolder;
+    font-size: 150%;
+    border: black;
+    
+
+    
+}
+
+ .output-style{
+    border: 1px solid black;
+    height: 10vh;
+    width: 70%;
+    margin: 2rem auto;
+    background-color: white;
+    
+ 
+    
+}
+body p{
+    font-size: 15px;
+    
+}
+
+.align-doyouknow{
+    padding: 0.5rem;
+}
+
+
+
+.footer-align{
+    width: 100%;
+    background-color: black;
+    color: white;
+    height: 9vh;
+    
+   
+   text-align: center;
+}
+.footer-style{
+    padding-top: 1rem;
+    
+} 
+
+
